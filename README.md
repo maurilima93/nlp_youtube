@@ -19,7 +19,7 @@ Este repositório contém uma coleção de projetos e scripts demonstrando minha
 **Como Usar**:
 ```bash
 python whisper_transcription.py --url [URL_DO_VIDEO_YOUTUBE]
-
+```
 ### 2. Análise de Texto com TF-IDF e WordCloud
 
 **Descrição**: Scripts para análise de frequência de termos em documentos usando TF-IDF e visualização de palavras-chave com WordCloud.
@@ -33,7 +33,7 @@ python whisper_transcription.py --url [URL_DO_VIDEO_YOUTUBE]
 **Como Usar**:
 ```bash
 python text_analysis.py --file_path [CAMINHO_PARA_O_ARQUIVO_DE_TEXTO]
-
+```
 ### 3. Geração de Texto com GPT
 
 **Descrição**: Demonstração de geração de texto automatizada utilizando o modelo GPT-2 da OpenAI. O script gera textos criativos baseados em um prompt fornecido pelo usuário.
@@ -45,7 +45,7 @@ python text_analysis.py --file_path [CAMINHO_PARA_O_ARQUIVO_DE_TEXTO]
 **Como Usar**:
 ```bash
 python generate_text.py --prompt "Digite seu prompt aqui"
-
+```
 
 
 **Instalação**
