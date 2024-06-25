@@ -26,4 +26,4 @@ plt.title("TF-IDF Heatmap")
 plt.xlabel("Features")
 plt.ylabel("Documents")
 plt.savefig('tfidf_heatmap.png', format='png', dpi=300)
-plt.close()  # Fecha a figura para liberar memória
+plt.close()
